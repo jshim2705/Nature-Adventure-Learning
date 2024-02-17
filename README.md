@@ -3,14 +3,14 @@
 ## Project Category
 Educational Social Impact
 
-## Key elements (what we built):
+## Key elements (what we built)
 An informative website + Unity Game for users to play
 
-## Inspiration:
+## Inspiration
 
-## Impact this project will have:
+## Impact this project will have
 
-## Challenges we ran into:
+## Challenges we ran into
 
 ## Submitted To
 The 2024 Hack For Humanity Hackathon 
