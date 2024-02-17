@@ -4,7 +4,7 @@
 Educational Social Impact
 
 ## Key elements (what we built)
-An informative website + Unity Game for users to play
+An informative website + Unity Game linked to the website for users to play
 
 ## Inspiration
 
