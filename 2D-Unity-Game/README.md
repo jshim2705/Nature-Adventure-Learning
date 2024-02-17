@@ -1,7 +1,7 @@
 # Nature Adventure Learning 2D Unity Game
 
 ### Contents
-<ins> UI: </ins> <br />
+<ins> UI components: </ins> <br />
 1 student movable character (for a total of 3 scenes) <br />
 1 teacher movable character (for a total of 3 scenes) <br />
 A garden background scene (for a total of 3 scenes) <br />
