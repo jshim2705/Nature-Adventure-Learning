@@ -1,5 +1,12 @@
 # Nature Adventure Learning
 
+## Key elements (what we built): Website + Unity Game
+
+## Inspiration:
+
+## Impact this project will have:
+
+## Challenges we ran into:
 
 
 ## Project Category
