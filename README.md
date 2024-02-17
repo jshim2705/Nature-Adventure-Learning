@@ -1,7 +1,7 @@
 # Nature Adventure Learning
 
 ## Submitted To
-The Hack For Humanity Hackathon 2024 
+The 2024 Hack For Humanity Hackathon 
 
 
 
