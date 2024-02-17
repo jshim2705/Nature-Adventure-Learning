@@ -1,6 +1,7 @@
 # Nature Adventure Learning
 
-## Key elements (what we built): Website + Unity Game
+## Key elements (what we built):
+An informative website + Unity Game for users to play
 
 ## Inspiration:
 
