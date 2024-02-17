@@ -1,6 +1,7 @@
 # Nature Adventure Learning
 
-_Hack For Humanity 2024 Project_
+## Submitted To
+Hack For Humanity 2024 Project
 
 
 
