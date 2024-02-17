@@ -2,7 +2,7 @@
 
 
 
-## Project Categories 
+## Project Category
 Educational Social Impact
 
 ## Submitted To
