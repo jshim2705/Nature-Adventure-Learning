@@ -3,7 +3,7 @@
 
 
 ## Project Categories 
-Sustainability + Educational Social Impact
+Educational Social Impact
 
 ## Submitted To
 The 2024 Hack For Humanity Hackathon 
